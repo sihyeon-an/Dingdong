@@ -1,6 +1,8 @@
 # Dingdong
 2024-1 웹4팀 깃허브 레포지토리
 
+## 부산지역 기반 중고거래 웹 플랫폼
+
 <div align=center><h2>📚 Stacks</h2></div>
 
 <div align=center> 
